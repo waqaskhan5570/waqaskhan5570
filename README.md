@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on web projects
 - 📫 you can contact on me on my email : waqaskhan5570@gmail.com
 
-<a href="https://app.daily.dev/waqaskhan5570"><img src="https://api.daily.dev/devcards/1ca19025ceff4edd9425cea66cd78421.png?r=30g" width="400" alt="Waqas Khan's Dev Card"/></a>
+<a href="https://app.daily.dev/waqaskhan5570"><img src="https://api.daily.dev/devcards/1ca19025ceff4edd9425cea66cd78421.png?r=4fr" width="400" alt="Waqas Khan's Dev Card"/></a>
 
 
