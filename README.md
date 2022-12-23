@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @waqaskhan5570, I have a Bachelor's Degree in Software Engineering
-- 👀 I’m interested in MERN stack development.
-- 🌱 I’m currently working as a JavaScript developer(NextJS, ReactJS).
+- 👋 Hi, I’m @waqaskhan5570, I have a Bachelor's Degree in Software Engineering and I speak English(fluent), Pushto(Native) and Urdu(National)
+- 👀 I’m interested in Web Development and AI
+- 🌱 I code in Javascript, Python, and work with Next.js, React,Redux, Docker, Cypress, Nodejs, Hasura, Graphql, Jira and much more.
 - 💞️ I’m looking to collaborate on web projects
 - 📫 you can contact on me on my email : waqaskhan5570@gmail.com
 
