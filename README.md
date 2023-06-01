@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @waqaskhan5570, I have a Bachelor's Degree in Software Engineering and I speak English(fluent), Pushto(Native) and Urdu(National)
+- 👋 Hi, I’m @waqaskhan5570, I have a Bachelor's Degree in Software Engineering
+- I am front-end developer with over 2 years of experience.
 - 👀 I’m interested in Web Development and AI
-- 🌱 I code in Javascript and Python.
-- I usually work with Next.js, React, Redux, Docker, Cypress, Nodejs, Hasura, Graphql, Jira and much more.
+- I have experience working with Next.js, React, Redux, Docker, Cypress, Nodejs, Hasura, Graphql, Jira and UI libraries including Bootstrap, Ant design and Chakra UI.
 - 💞️ I’m looking to collaborate on web projects
 - 📫 you can contact on me on my email : waqaskhan5570@gmail.com
 
