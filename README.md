@@ -5,8 +5,6 @@
 - 💞️ I’m looking to collaborate on web projects
 - 📫 you can contact me by my email: waqaskhan5570@gmail.com
 
-- **Just for the record: The real code that I write is not usually in the public folders but rather private or in organization repos but I guess that's obvious**.
-
  [<img src="https://user-images.githubusercontent.com/46786384/209342378-7d2b97ce-95f6-478f-b1b4-8f8940db684d.png" width="60" height="60">][1]
  
 [1]: https://www.linkedin.com/in/waqaskhan5570
